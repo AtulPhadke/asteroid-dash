@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1036224289890-4k4palulg4e21355fnc43e8fjetoeuvl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1036224289890-4k4palulg4e21355fnc43e8fjetoeuvl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmXrlVCQUB2IJXh9LqFytBvMVNyHj4p_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036224289890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Atul-Phadke.scibowl-game</string>
+	<key>PROJECT_ID</key>
+	<string>scibowl-gym-questions</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scibowl-gym-questions.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036224289890:ios:f266f9ceafdaa2c033853b</string>
+	<key>DATABASE_URL</key>
+	<string>https://scibowl-gym-questions.firebaseio.com</string>
+</dict>
+</plist>
